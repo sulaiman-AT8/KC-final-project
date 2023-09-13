@@ -1,0 +1,21 @@
+body{
+    background-image: url('./kuwaitback.jpg');
+}
+img{
+    height: 7cm;
+}
+nav{
+    margin-block-end: 2cm;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: goldenrod;
+    margin-top: 1cm;
+}
+section{
+    padding-top: 5cm;
+}
+.container{
+    padding-top: 2cm;
+}
